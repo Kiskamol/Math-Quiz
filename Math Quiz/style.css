@@ -1,0 +1,13 @@
+*{
+      box-sizing: border-box;
+      font-size: 18px;
+    }
+    html,body {
+      background-color: rgb(235, 251, 208);
+    }
+     .main{
+       margin: 50px auto;
+       width: 700px;
+        border:solid black ;
+        background-color: beige;
+     }
